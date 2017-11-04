@@ -1,4 +1,5 @@
- "flightList": [
+{
+  "flightList": [
     {
       "id": "1",
       "patent": "FJA1022",
@@ -60,3 +61,4 @@
       "imgURL": "https://www.passportsandvisas.com/images/uploads/general/miami-passportsandvisas.jpg"
     }
   ]
+}
