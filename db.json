@@ -60,5 +60,15 @@
       "rating": 5,
       "imgURL": "https://www.passportsandvisas.com/images/uploads/general/miami-passportsandvisas.jpg"
     }
+  ],
+  "users": [
+    {
+      "username": "emanuel.paz",
+      "password": "123456"
+    },
+    {
+      "username": "valeria.fornieles",
+      "password": "123456"
+    }
   ]
 }
