@@ -7,7 +7,11 @@
       "price": 1000.5,
       "route": {
         "origin": "Buenos Aires",
-        "destination": "Miami"
+        "destination": "Miami",
+        "location": { 
+          "lon": -80.19179, 
+          "lat": 25.761680
+        }
       },
       "rating": 5,
       "imgURL": "http://adcstatic.com/imagenes/destinos/m/alquiler-coches-miami.jpg"
@@ -19,7 +23,11 @@
       "price": 500.5,
       "route": {
         "origin": "España",
-        "destination": "Alemania"
+        "destination": "Alemania",
+        "location": { 
+          "lon": 10.451526, 
+          "lat": 51.165691
+        }
       },
       "rating": 5,
       "imgURL": "http://adcstatic.com/imagenes/destinos/a/alquiler-coches-alemania.jpg"
@@ -31,7 +39,11 @@
       "price": 400.5,
       "route": {
         "origin": "Japon",
-        "destination": "Dubai"
+        "destination": "Dubai",
+        "location": { 
+          "lon": 55.270783, 
+          "lat": 25.204849
+        }
       },
       "rating": 5,
       "imgURL": "https://noticiaglobal.files.wordpress.com/2015/01/dubai.jpg?w=400&h=200&crop=1"
