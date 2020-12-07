@@ -58,5 +58,99 @@
       "username": "valeria.fornieles",
       "password": "123456"
     }
-  ]
+  ],
+  "restaurants":[
+  {
+    "id": "1",
+    "name": "Eleven Madison Park",
+    "detail": {
+      "location": "New York",
+      "rating": 4,
+      "specialization": [
+        "savory",
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Osteria Francescana",
+    "detail": {
+      "location": "Italia ",
+      "rating": 1,
+      "specialization": [
+        "savory"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "El Celler de Can Roca",
+    "detail": {
+      "location": "España",
+      "rating": 4,
+      "specialization": [
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Mirazur",
+    "detail": {
+      "location": "New York",
+      "rating": 5,
+      "specialization": [
+        "savory",
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Central",
+    "detail": {
+      "location": "Peru",
+      "rating": 3,
+      "specialization": [
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Asador Etxebarri",
+    "detail": {
+      "location": "España",
+      "rating": 2,
+      "specialization": [
+        "savory",
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "Gaggan",
+    "detail": {
+      "location": "Tailandia",
+      "rating": 1,
+      "specialization": [
+        "savory"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Maido",
+    "detail": {
+      "location": "Peru",
+      "rating": 3,
+      "specialization": [
+        "savory",
+        "sweet"
+      ]
+    }
+  }
+]
 }
